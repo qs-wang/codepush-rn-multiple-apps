@@ -1,0 +1,1 @@
+appcenter codepush deployment add -a $1 staging

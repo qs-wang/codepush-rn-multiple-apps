@@ -1,0 +1,1 @@
+appcenter apps create -d $1 -o iOS -p React-Native
